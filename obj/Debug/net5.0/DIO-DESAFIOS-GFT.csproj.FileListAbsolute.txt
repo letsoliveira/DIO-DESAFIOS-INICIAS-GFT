@@ -1,0 +1,16 @@
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.csproj.AssemblyReference.cache
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.AssemblyInfoInputs.cache
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.AssemblyInfo.cs
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.csproj.CoreCompileInputs.cache
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\DIO-DESAFIOS-GFT.exe
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\DIO-DESAFIOS-GFT.deps.json
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\DIO-DESAFIOS-GFT.runtimeconfig.json
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\DIO-DESAFIOS-GFT.runtimeconfig.dev.json
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\DIO-DESAFIOS-GFT.dll
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\ref\DIO-DESAFIOS-GFT.dll
+C:\workspace\DIO-DESAFIOS-GFT\bin\Debug\net5.0\DIO-DESAFIOS-GFT.pdb
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.dll
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\ref\DIO-DESAFIOS-GFT.dll
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.pdb
+C:\workspace\DIO-DESAFIOS-GFT\obj\Debug\net5.0\DIO-DESAFIOS-GFT.genruntimeconfig.cache
